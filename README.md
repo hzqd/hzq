@@ -1,2 +1,0 @@
-# hzq
-personal website
